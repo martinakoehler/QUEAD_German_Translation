@@ -2,7 +2,7 @@
 
 Translated Questionnaire for the Evaluation of Physical Assistive Devices (QUEAD) of paper "Effect of sensor-based assistance systems on users in manual assembly tasks" by Elisa Maria Zeller, Martina Köhler, Christian Werner Becker-Asano, and Christian Jauch.
 
-This PDF contains all the questions posed to one subject for the entire duration of the experiment, including the open questions. 
+This PDF contains all the questions posed to one subject for the entire duration of the experiment, including the open questions. Please note that this translation is not validated.
 
 In case there are any open questions about the paper or the questionnaire, please contact:
 
